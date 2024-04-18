@@ -238,4 +238,3 @@ GROUP BY
 	payment_type
 ORDER BY 
 	Total desc
-
