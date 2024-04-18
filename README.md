@@ -1,3 +1,7 @@
+Link do dashboard no tableau:
+https://public.tableau.com/views/EcommerceBrazil_17108850312770/Painel_Analise?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link
+
+
 # Documentação do Processo ETL (Extract, Transform, Load)
 
 Este repositório contém o código SQL e a documentação associada ao processo de ETL (Extração, Transformação e Load) para o sistema de e-commerce da empresa. O objetivo deste processo é garantir a qualidade e consistência dos dados armazenados no banco de dados, para a exibição no Tableau.
