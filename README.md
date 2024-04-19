@@ -21,7 +21,7 @@ Load: Por fim, os dados transformados são carregados de volta ao banco de dados
 
 SQL_File.sql: Este arquivo contém o código SQL utilizado para realizar o processo de ETL. Ele está organizado em seções que correspondem a cada etapa do processo, incluindo consultas para verificação e limpeza dos dados, bem como consultas analíticas para extrair insights.
 README.md: Este arquivo contém a documentação detalhada do processo de ETL. Aqui você encontrará uma visão geral do processo, bem como instruções sobre como executar o código SQL e interpretar os resultados.
-Instruções de Uso
+
 
 
 
